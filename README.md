@@ -1,1 +1,3 @@
 # RRSchoolFinalProject
+
+New readme LOG
